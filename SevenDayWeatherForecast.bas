@@ -26,7 +26,7 @@ Option Explicit
 '
 ' How to Use: You will need to make a free API key by visiting https://www.apixu.com/api.aspx and
 '             clicking the button to get started. Once you have the key, paste it as the assigned
-'             value for the variable api_key (replace the string "<paste your API key here>".
+'             value for the variable api_key (replace the string <paste your API key here>).
 '
 '             If you want to change the number of forecasted days you can change the number at the
 '             end of the api_url variable where the string has "&days=7". Note that the API only
